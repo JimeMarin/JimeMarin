@@ -45,7 +45,9 @@ I'm a passionate programmer student currently building my skills and exploring t
 
 ---
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jimemarin&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jimemarin&layout=compact&theme=dark)
+
 
 ---
 ### 📲 Connect with me 
