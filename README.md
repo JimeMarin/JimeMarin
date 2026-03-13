@@ -2,23 +2,25 @@
 ### Software Developer in progress 
 
 #### 💁🏽‍♀️ About me
-I'm a passionate programmer student currently building my skills and exploring the tech world.
+I'm a full-stack developer student with a growing passion for mobile development — currently sharpening my skills in Swift, .NET MAUI, and Angular while refreshing my knowledge of APIs.
 
 - 🎓 Graduating Summer 2026
+  
+- 📱 I enjoy building end-to-end applications, and lately I've been drawn to the mobile side — creating experiences that live in people's hands.
 
-- 🌱 I love learning new things and applying what I've learned through hands-on projects.
+- 🌱 Currently exploring: Angular · TypeScript · .NET MAUI · API design.
 
-- 🎯 I'm looking forward to working at a company that supports my professional growth and field experience.
+- 🎯 Looking to join a team where I can contribute to real products and grow as a developer — ideally in mobile or full-stack roles.
 
 - 📫 Reach me at: J.marinp@outlook.com
 
 ---
 ### 💻 Tech Skills
 #### Languages
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,15 +29,15 @@ I'm a passionate programmer student currently building my skills and exploring t
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-000000?style=for-the-badge&logo=eclipse&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Tools
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
