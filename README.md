@@ -1,5 +1,5 @@
 # <p align="center"> I'm Jimena Marin </p>
-### Software Developer in progress 
+### Software Developer student
 
 #### 💁🏽‍♀️ About me
 I'm a full-stack developer student with a growing passion for mobile development — currently sharpening my skills in Swift, .NET MAUI, and Angular while refreshing my knowledge of APIs.
